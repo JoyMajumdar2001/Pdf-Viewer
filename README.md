@@ -34,7 +34,7 @@ dependencies {
 NOTE: Replace the tag with current release version, e.g
 
 ```java
-implementation 'com.github.afreakyelf:Pdf-Viewer:1.1.2'
+implementation 'com.github.JoyMajumdar2001:Pdf-Viewer:1.1.2'
 ```
 
 ## How to use the library?
