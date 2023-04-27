@@ -7,11 +7,9 @@ A Simple PDF Viewer library which only occupies around <b>125kb</b> while most o
 <img src="https://raw.githubusercontent.com/afreakyelf/Pdf-Viewer/master/Screenshot_2020-07-11-23-59-31-606_com.rajat.pdfviewer.jpg" width="420" height="840" />
 </p>
 
-[![](https://jitpack.io/v/afreakyelf/Pdf-Viewer.svg)](https://jitpack.io/#afreakyelf/Pdf-Viewer) [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/Apache-2.0) ![](https://img.shields.io/github/forks/afreakyelf/Pdf-Viewer?label=Forks)
+[![](https://jitpack.io/v/JoyMajumdar2001/Pdf-Viewer.svg)](https://jitpack.io/#JoyMajumdar2001/Pdf-Viewer) [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/Apache-2.0) ![](https://img.shields.io/github/forks/JoyMajumdar2001/Pdf-Viewer?label=Forks)
 ![](https://img.shields.io/github/stars/afreakyelf/Pdf-Viewer?label=Stars&color=9cf) ![](https://visitor-badge.glitch.me/badge?page_id=afreakyelf.Pdf-Viewer)[![](https://jitci.com/gh/afreakyelf/Pdf-Viewer/svg)](https://jitci.com/gh/afreakyelf/Pdf-Viewer)
 
-## Who's using Pdf-Viewer?
-**👉 [Check out who's using Pdf-Viewer](/usecases.md)**
 
 ## How to integrate into your app?
 Integrating the project is simple, All you need to do is follow the below steps
@@ -30,13 +28,13 @@ allprojects {
 Step 2. Add the dependency
 ```java
 dependencies {
-    implementation 'com.github.afreakyelf:Pdf-Viewer:v{Tag}'
+    implementation 'com.github.JoyMajumdar2001:Pdf-Viewer:1.1.2'
 }
 ```
 NOTE: Replace the tag with current release version, e.g
 
 ```java
-implementation 'com.github.afreakyelf:Pdf-Viewer:v1.0.7'
+implementation 'com.github.afreakyelf:Pdf-Viewer:1.1.2'
 ```
 
 ## How to use the library?
